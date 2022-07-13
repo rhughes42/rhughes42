@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://activity-graph.herokuapp.com/graph?username={rhughes42}&theme=minimal
+
 <!--
 **rhughes42/rhughes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
