@@ -1,12 +1,12 @@
-### Hi there 👋
+### Code, Computational Geometry & Robots ⚡
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhughes42" />
-<img src="https://activity-graph.herokuapp.com/graph?username=rhughes42&theme=minimal&line=F5C538&point=5A5D61" />
+<img src="https://activity-graph.herokuapp.com/graph?username=rhughes42&theme=minimal&line=F5C538&point=F5C538&hide_title=true" />
 
 <!--
 **rhughes42/rhughes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=rhughes42" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
