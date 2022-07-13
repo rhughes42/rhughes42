@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=rhughes42" />
-<img src="https://activity-graph.herokuapp.com/graph?username=rhughes42&custom_title=What%20has%20he%20been%20up%to&theme=minimal" />
+<img src="https://activity-graph.herokuapp.com/graph?username=rhughes42&theme=minimal&line=F5C538" />
 
 <!--
 **rhughes42/rhughes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
