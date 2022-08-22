@@ -1,7 +1,5 @@
 ### Code, Computational Geometry & Robots ⚡
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rhughes42&theme=minimal&line=F5C538&point=F5C538&hide_title=true" />
-
 <!--
 **rhughes42/rhughes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
