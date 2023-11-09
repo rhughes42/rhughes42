@@ -1,4 +1,4 @@
-### Code, Computational Geometry & Robots ⚡
+### ⊷ ≫ Nodes, edges and pitching wedges. 🏌️⛳
 
 <!--
 **rhughes42/rhughes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
