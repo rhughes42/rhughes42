@@ -64,7 +64,7 @@ I'm passionate about nodes, edges, and the elegant mathematics behind network st
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhughes42&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhughes42&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
