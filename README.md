@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm rhughes42
 
-### ⊷ ≫ Nodes, edges and pitching wedges. 🏌️⛳
+### ⊷ ≫ Nodes, edges and race lines. 🏎️
 
-*Exploring the intersection of graph theory, networks, and maybe a round of golf*
+*Exploring the intersection of graph theory, networks, and high-performance systems*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rhughes42&color=blue&style=flat-square)](https://github.com/rhughes42)
 
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-I'm passionate about nodes, edges, and the elegant mathematics behind network structures. When I'm not coding or analyzing graphs, you might find me on the golf course perfecting my swing!
+I'm passionate about nodes, edges, and the elegant mathematics behind network structures. I enjoy working on hard problems in performance-critical systems and find the overlap between theory and engineering particularly compelling.
 
 - 🔭 Currently exploring graph algorithms and network theory
 - 🌱 Always learning and experimenting with new technologies
-- ⛳ Golf enthusiast who sees the world through nodes and edges
-- 💡 Interested in data structures, algorithms, and computational problem-solving
+- 🏎️ Interested in Formula 1, aerodynamics, and vehicle simulation
+- 💡 Focused on cryptography, cybersecurity, and high-performance computing
 
 ---
 
@@ -60,22 +60,12 @@ I'm passionate about nodes, edges, and the elegant mathematics behind network st
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhughes42&theme=tokyonight&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔍 Deep diving into graph algorithms and network analysis
-- 🧩 Solving complex algorithmic challenges
-- 🌐 Building projects that connect ideas and data
-- 📚 Continuous learning and skill development
+- 🏎️ Following Formula 1 and studying aerodynamics and simulation techniques
+- 🔐 Exploring cryptography and cybersecurity fundamentals
+- ⚡ Building high-performance computing solutions
 
 ---
 
