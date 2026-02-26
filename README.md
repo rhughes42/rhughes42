@@ -20,6 +20,42 @@ Founder & CEO — Graph Technologies
 - Quantitative research infrastructure (QuantConnect / LEAN)
 - Cloud-native distributed systems
 
+## Selected Focus Areas
+
+### Applied AI in Production
+Building secure, scalable AI systems that move beyond prototypes into real operational workflows.
+
+### Computational Design & Geometry
+Algorithm development, discrete math, graph theory, optimization, and CAD/CAM integration.
+
+### Robotics & Automation
+Industrial robotic control systems, manufacturing simulations, and digital-physical integration.
+
+---
+
+## Current Work
+
+Founder at Graph Technologies  
+Building advanced AI-driven platforms including:
+
+• AI-driven manufacturing OS  
+• Design-to-production automation tools  
+• Agentic workflow systems  
+• Knowledge systems for legal & financial domains  
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/whoisryan/  
+Website: https://www.graphtechnologies.xyz  
+
+---
+
+> I engineer systems where mathematics meets production. From graph theory and computational geometry to deployed AI platforms and robotics infrastructure, I focus on turning complex ideas into working, scalable systems that operate in the real world.
+
+---
+
 ## What I Do (In More Detail)
 
 ### Agentic & Applied AI Systems
@@ -90,37 +126,3 @@ Founder & CEO — Graph Technologies
 - Strategy backtesting systems  
 - Data ingestion, feature engineering & execution logic  
 ---
-
-## Selected Focus Areas
-
-### Applied AI in Production
-Building secure, scalable AI systems that move beyond prototypes into real operational workflows.
-
-### Computational Design & Geometry
-Algorithm development, discrete math, graph theory, optimization, and CAD/CAM integration.
-
-### Robotics & Automation
-Industrial robotic control systems, manufacturing simulations, and digital-physical integration.
-
----
-
-## Current Work
-
-Founder at Graph Technologies  
-Building advanced AI-driven platforms including:
-
-• AI-driven manufacturing OS  
-• Design-to-production automation tools  
-• Agentic workflow systems  
-• Knowledge systems for legal & financial domains  
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/whoisryan/  
-Website: https://www.graphtechnologies.xyz  
-
----
-
-> I build systems that connect theory to production.
