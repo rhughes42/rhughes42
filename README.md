@@ -2,11 +2,8 @@
 
 # Ryan Hughes
 ### Applied AI Systems · Computational Geometry & Engineering · Robotics
-
-Designing production-grade AI systems and computational tools across manufacturing, AECO, finance, and robotics.
-
+> I engineer systems where mathematics meets production. From graph theory and computational geometry to deployed AI platforms and robotics infrastructure, I focus on turning complex ideas into working, scalable systems that operate in the real world.
 Founder & CEO — Graph Technologies
-
 </div>
 
 ---
@@ -49,10 +46,6 @@ Building advanced AI-driven platforms including:
 
 LinkedIn: https://www.linkedin.com/in/whoisryan/  
 Website: https://www.graphtechnologies.xyz  
-
----
-
-> I engineer systems where mathematics meets production. From graph theory and computational geometry to deployed AI platforms and robotics infrastructure, I focus on turning complex ideas into working, scalable systems that operate in the real world.
 
 ---
 
