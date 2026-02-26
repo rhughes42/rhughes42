@@ -12,14 +12,83 @@ Founder & CEO — Graph Technologies
 ---
 
 ## What I Work On
+• Agentic AI systems & RAG architectures
+• Fullstack AI platforms (React / Next.js / Node / Python / .NET)
+• Applied ML (PyTorch, embeddings, semantic systems)
+• High-performance C++ / computational geometry
+• Robotics & digital manufacturing systems
+• Quantitative research infrastructure (QuantConnect / LEAN)
+• Cloud-native distributed systems
 
-• Multi-agent AI systems  
-• Retrieval-augmented generation (RAG) architectures  
-• Vector databases & semantic systems  
-• Computational geometry & graph algorithms  
-• Robotics & digital manufacturing workflows  
-• Fullstack AI platforms (TypeScript, Python, C#, C++)  
+## What I Do (In More Detail)
 
+### Agentic & Applied AI Systems
+- Multi-agent orchestration frameworks (LangChain/LangGraph & custom systems)  
+- Retrieval-Augmented Generation (RAG) with hybrid vector + symbolic retrieval  
+- Embedding pipelines, semantic indexing & memory architectures  
+- Evaluation frameworks, monitoring & production deployment  
+- Deep learning systems (PyTorch, PyTorch3D)  
+
+---
+
+### Fullstack AI Platform Architecture
+
+#### Frontend Engineering
+- React & Next.js (SSR/ISR, edge rendering, streaming)  
+- TypeScript-first architectures  
+- React Three Fiber (R3F) for real-time 3D interfaces  
+- TailwindCSS-based scalable design systems  
+- Secure authentication flows & role-based interfaces  
+- Real-time UI systems & data visualization  
+
+#### Backend Engineering
+- Node.js & Python (FastAPI) service architectures  
+- .NET / C# high-performance backend systems  
+- Asynchronous processing, background jobs & workflow engines  
+- Domain-driven architecture & modular system design  
+
+#### API Systems
+- RESTful services with structured validation  
+- GraphQL schema design & resolver optimization  
+- gRPC for high-performance internal communication  
+- API versioning, authentication (JWT/OAuth), access control  
+
+---
+
+### Data & Infrastructure
+- PostgreSQL / SQL schema design & performance tuning  
+- Supabase (auth, RLS, real-time systems)  
+- Firestore document-based architectures  
+- Redis (caching, pub/sub, ephemeral state)  
+- Vector databases & hybrid retrieval systems  
+- Cloud platforms: Vercel, Google Cloud Platform, Scaleway  
+- Docker, CI/CD pipelines, containerized & serverless deployments  
+
+---
+
+### Computational Engineering & Performance
+- High-performance C++ & C# systems  
+- Python research stacks (NumPy, Pandas)  
+- Discrete mathematics, graph theory & optimization  
+- Geometry kernels & simulation engines  
+- Performance-critical system design  
+
+---
+
+### Robotics & Digital Manufacturing
+- Six-axis robotic control frameworks  
+- Kinematics & parametric toolpath generation  
+- CAD/CAM system integration  
+- Digital twin simulation systems  
+- Design-to-fabrication automation pipelines  
+
+---
+
+### Quantitative Finance Infrastructure
+- Python & C++ research pipelines  
+- QuantConnect / LEAN algorithmic trading framework  
+- Strategy backtesting systems  
+- Data ingestion, feature engineering & execution logic  
 ---
 
 ## Selected Focus Areas
