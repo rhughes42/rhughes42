@@ -12,13 +12,13 @@ Founder & CEO — Graph Technologies
 ---
 
 ## What I Work On
-• Agentic AI systems & RAG architectures
-• Fullstack AI platforms (React / Next.js / Node / Python / .NET)
-• Applied ML (PyTorch, embeddings, semantic systems)
-• High-performance C++ / computational geometry
-• Robotics & digital manufacturing systems
-• Quantitative research infrastructure (QuantConnect / LEAN)
-• Cloud-native distributed systems
+- Agentic AI systems & RAG architectures
+- Fullstack AI platforms (React / Next.js / Node / Python / .NET)
+- Applied ML (PyTorch, embeddings, semantic systems)
+- High-performance C++ / computational geometry
+- Robotics & digital manufacturing systems
+- Quantitative research infrastructure (QuantConnect / LEAN)
+- Cloud-native distributed systems
 
 ## What I Do (In More Detail)
 
