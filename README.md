@@ -1,109 +1,121 @@
 <div align="center">
 
-# 👋 Hi, I'm rhughes42
-
-### ⊷ ≫ Nodes, edges and race lines. 🏎️
-
-*Exploring the intersection of graph theory, networks, and high-performance systems*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=rhughes42&color=blue&style=flat-square)](https://github.com/rhughes42)
-
+# Ryan Hughes
+### Applied AI Systems · Computational Geometry & Engineering · Robotics
+> I engineer systems where mathematics meets production. From graph theory and computational geometry to deployed AI platforms and robotics infrastructure, I focus on turning complex ideas into working, scalable systems that operate in the real world.
+Founder & CEO — Graph Technologies
 </div>
 
 ---
 
-## 🚀 About Me
+## What I Work On
+- Agentic AI systems & RAG architectures
+- Fullstack AI platforms (React / Next.js / Node / Python / .NET)
+- Applied ML (PyTorch, embeddings, semantic systems)
+- High-performance C++ / computational geometry
+- Robotics & digital manufacturing systems
+- Quantitative research infrastructure (QuantConnect / LEAN)
+- Cloud-native distributed systems
 
-I'm passionate about nodes, edges, and the elegant mathematics behind network structures. I enjoy working on hard problems in performance-critical systems and find the overlap between theory and engineering particularly compelling.
+## Selected Focus Areas
 
-- 🔭 Currently exploring graph algorithms and network theory
-- 🌱 Always learning and experimenting with new technologies
-- 🏎️ Interested in Formula 1, aerodynamics, and vehicle simulation
-- 💡 Focused on cryptography, cybersecurity, and high-performance computing
+### Applied AI in Production
+Building secure, scalable AI systems that move beyond prototypes into real operational workflows.
 
----
+### Computational Design & Geometry
+Algorithm development, discrete math, graph theory, optimization, and CAD/CAM integration.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhughes42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhughes42&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhughes42&theme=tokyonight&hide_border=true)
-
-</div>
+### Robotics & Automation
+Industrial robotic control systems, manufacturing simulations, and digital-physical integration.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Current Work
 
-<div align="center">
+Founder at Graph Technologies  
+Building advanced AI-driven platforms including:
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
+• AI-driven manufacturing OS  
+• Design-to-production automation tools  
+• Agentic workflow systems  
+• Knowledge systems for legal & financial domains  
 
 ---
 
-## 🎯 Current Focus
+## Connect
 
-- 🔍 Deep diving into graph algorithms and network analysis
-- 🏎️ Following Formula 1 and studying aerodynamics and simulation techniques
-- 🔐 Exploring cryptography and cybersecurity fundamentals
-- ⚡ Building high-performance computing solutions
+LinkedIn: https://www.linkedin.com/in/whoisryan/  
+Website: https://www.graphtechnologies.xyz  
 
 ---
 
-## 🏆 GitHub Trophies
+## What I Do (In More Detail)
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rhughes42&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rhughes42)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhughes42@users.noreply.github.com)
-
-</div>
+### Agentic & Applied AI Systems
+- Multi-agent orchestration frameworks (LangChain/LangGraph & custom systems)  
+- Retrieval-Augmented Generation (RAG) with hybrid vector + symbolic retrieval  
+- Embedding pipelines, semantic indexing & memory architectures  
+- Evaluation frameworks, monitoring & production deployment  
+- Deep learning systems (PyTorch, PyTorch3D)  
 
 ---
 
-<div align="center">
+### Fullstack AI Platform Architecture
 
-### 💭 Random Dev Quote
+#### Frontend Engineering
+- React & Next.js (SSR/ISR, edge rendering, streaming)  
+- TypeScript-first architectures  
+- React Three Fiber (R3F) for real-time 3D interfaces  
+- TailwindCSS-based scalable design systems  
+- Secure authentication flows & role-based interfaces  
+- Real-time UI systems & data visualization  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+#### Backend Engineering
+- Node.js & Python (FastAPI) service architectures  
+- .NET / C# high-performance backend systems  
+- Asynchronous processing, background jobs & workflow engines  
+- Domain-driven architecture & modular system design  
 
-</div>
+#### API Systems
+- RESTful services with structured validation  
+- GraphQL schema design & resolver optimization  
+- gRPC for high-performance internal communication  
+- API versioning, authentication (JWT/OAuth), access control  
 
 ---
 
-<div align="center">
+### Data & Infrastructure
+- PostgreSQL / SQL schema design & performance tuning  
+- Supabase (auth, RLS, real-time systems)  
+- Firestore document-based architectures  
+- Redis (caching, pub/sub, ephemeral state)  
+- Vector databases & hybrid retrieval systems  
+- Cloud platforms: Vercel, Google Cloud Platform, Scaleway  
+- Docker, CI/CD pipelines, containerized & serverless deployments  
 
-*"In theory, there is no difference between theory and practice. In practice, there is."* - Yogi Berra
+---
 
-**Thanks for stopping by! Feel free to explore my repositories and connect!** 🚀
+### Computational Engineering & Performance
+- High-performance C++ & C# systems  
+- Python research stacks (NumPy, Pandas)  
+- Discrete mathematics, graph theory & optimization  
+- Geometry kernels & simulation engines  
+- Performance-critical system design  
 
-</div>
+---
+
+### Robotics & Digital Manufacturing
+- Six-axis robotic control frameworks  
+- Kinematics & parametric toolpath generation  
+- CAD/CAM system integration  
+- Digital twin simulation systems  
+- Design-to-fabrication automation pipelines  
+
+---
+
+### Quantitative Finance Infrastructure
+- Python & C++ research pipelines  
+- QuantConnect / LEAN algorithmic trading framework  
+- Strategy backtesting systems  
+- Data ingestion, feature engineering & execution logic  
+---
