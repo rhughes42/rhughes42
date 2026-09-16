@@ -7,6 +7,12 @@
 
 ---
 
+## Connect
+
+[LinkedIn](https://linkedin.com/in/whoisryan/) | [Website](https://about.whoisryan.chatgpt.site/)
+
+---
+
 ## What I Work On
 - Agentic AI systems & RAG architectures
 - Fullstack AI platforms (React / Next.js / Node / Python / .NET)
@@ -26,12 +32,6 @@ Algorithm development, discrete math, graph theory, optimization, and CAD/CAM in
 
 ### Robotics & Automation
 Industrial robotic control systems, manufacturing simulations, and digital-physical integration. 
-
----
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/whoisryan/) | [Website](https://about.whoisryan.chatgpt.site/)
 
 ---
 
